@@ -1,72 +1,57 @@
 # Felix Ogutu Odhiambo
 
+> Turning aviation data into strategy, and strategy into impact.
+
 ## 👋 About Me
 Jambo! 👋  
 
-I’m an aviation analytics professional with a background in statistics and over four years of experience using data to inform decisions across the airline ecosystem ✈️📊  
+I’m an aviation analytics professional with a background in statistics and 4+ years of experience using data to support decision-making across the airline ecosystem ✈️📊  
 
-My work sits at the intersection of **data, operations, and strategy**, where I translate complex datasets into clear insights that support planning, improve performance, and drive more efficient airline operations.
+I work at the intersection of **data, operations, and strategy**, translating complex datasets into insights that improve performance and efficiency.
 
 ---
 
 ## ✈️ Aviation Focus
-I take a **system-wide view of aviation**, applying analytics across key areas:
-
-- **Network & Commercial** → route performance, demand patterns, capacity optimization  
-- **Operations** → on-time performance, delays, aircraft utilization  
-- **Maintenance & Reliability** → technical performance, downtime, efficiency  
-- **Financial Performance** → cost structures, profitability, resource allocation  
-- **Sustainability** → emissions and operational efficiency  
+- **Network & Commercial** → route performance, demand, capacity optimization  
+- **Operations** → on-time performance, delays, utilization  
+- **Maintenance** → reliability, efficiency  
+- **Financials** → cost, profitability  
+- **Sustainability** → efficiency, emissions  
 
 ---
 
 ## 🚀 What I Do
-- Turn data into insights that guide **strategic and operational decisions**  
+- Turn data into **decision-ready insights**  
+- Support planning through **forecasting and analysis**  
 - Identify performance gaps and optimization opportunities  
-- Support planning through **forecasting, scenario analysis, and data modeling**  
-- Improve efficiency by simplifying processes and enabling faster decision cycles  
+- Enable faster, more effective decision-making  
 
 ---
 
-## 📈 Impact & Value
-My work is focused on **outcomes, not just analysis**:
-
-- Supporting smarter **network and capacity decisions**  
-- Improving **operational efficiency and reliability**  
-- Enhancing **profitability through data-informed strategies**  
-- Enabling leadership teams to make **clear, timely decisions**  
+## 📈 Impact
+- Improved **network and capacity decisions**  
+- Enhanced **operational efficiency and reliability**  
+- Stronger **profitability insights**  
+- Clearer **decision support for leadership**  
 
 ---
 
-## 🧠 How I Think
-I approach problems from a **decision-first perspective**:
-
-- What decision needs to be made?  
-- What data supports that decision?  
-- What are the trade-offs and business impact?  
-
-This approach allows me to move beyond reporting into **decision intelligence and strategy support**.
+## 🧠 Approach
+- Define the decision  
+- Use data to support it  
+- Evaluate trade-offs and impact  
 
 ---
 
 ## 🌍 Current Focus
-- Building end-to-end aviation analytics use cases  
-- Strengthening capabilities in forecasting and optimization  
-- Expanding into **system-level and strategic planning**  
-
----
-
-## 🎯 Long-Term Direction
-Developing toward becoming a **data-driven aviation leader**, bridging:
-
-- analytics and business strategy  
-- operational detail and executive decision-making  
-- short-term performance and long-term growth  
+- End-to-end aviation analytics  
+- Forecasting and optimization  
+- Strategic and system-level planning  
 
 ---
 
 ## 🤝 Let’s Connect
-Open to collaboration on aviation analytics, strategy, and decision-driven initiatives.
+Open to collaboration on aviation analytics and strategy.
 
 - [LinkedIn](https://www.linkedin.com/in/felixogutu889/)
 - [GitHub](https://github.com/FelixOgutuOdhiambo)
