@@ -5,9 +5,9 @@
 ## 👋 About Me
 Jambo! 👋  
 
-I’m an aviation analytics professional with a background in statistics and 4+ years of experience using data to support decision-making across the airline ecosystem ✈️📊  
+I’m an aviation analytics professional with a background in statistics and 4+ years of experience supporting data-driven decision-making across the airline ecosystem ✈️📊  
 
-I work at the intersection of **data, operations, and strategy**, translating complex datasets into insights that improve performance and efficiency.
+I operate at the intersection of **data, operations, and strategy**, translating complex datasets into insights that improve performance, optimize networks, and support planning.
 
 ---
 
@@ -28,11 +28,28 @@ I work at the intersection of **data, operations, and strategy**, translating co
 
 ---
 
-## 📈 Impact
-- Improved **network and capacity decisions**  
-- Enhanced **operational efficiency and reliability**  
-- Stronger **profitability insights**  
-- Clearer **decision support for leadership**  
+## 🛠️ Skills & Tech Stack
+
+**Data & Analytics**  
+Python • Pandas • NumPy • Scikit-learn • SQL  
+
+**BI & Visualization**  
+Power BI • Microsoft Fabric  
+
+**Data Handling & Tools**  
+Excel (Advanced) • Git • GitHub • Anaconda  
+
+**Core Capabilities**  
+Forecasting • Scenario Analysis • Optimization • Data Modeling  
+
+---
+
+## 📈 Impact & Milestones
+- Supported **network performance analysis and capacity decisions** across multiple routes  
+- Developed **automated reporting and dashboards** improving decision turnaround time  
+- Contributed to **data-driven planning and operational efficiency improvements**  
+
+*(Tip: Add metrics where possible — e.g., % improvement, scale, volume)*
 
 ---
 
@@ -50,8 +67,24 @@ I work at the intersection of **data, operations, and strategy**, translating co
 
 ---
 
-## 🤝 Let’s Connect
-Open to collaboration on aviation analytics and strategy.
+## 🎓 Education & Certifications
+- Bachelor of Applied Science in Statistics – Mount Kenya University  
+- Google Data Analytics Professional Certificate  
 
-- [LinkedIn](https://www.linkedin.com/in/felixogutu889/)
-- [GitHub](https://github.com/FelixOgutuOdhiambo)
+---
+
+## 🌐 Social & Portfolio
+- [LinkedIn](https://www.linkedin.com/in/felixogutu889/)  
+- [GitHub](https://github.com/FelixOgutuOdhiambo)  
+
+*(Optional: Add Kaggle / Portfolio / Blog if available)*
+
+---
+
+## 🤝 Let’s Connect
+I’m open to:
+- Data-driven strategy and analytics roles  
+- Aviation and network planning opportunities  
+- Collaborative projects in analytics and decision intelligence  
+
+---
