@@ -49,8 +49,6 @@ Forecasting • Scenario Analysis • Optimization • Data Modeling
 - Developed **automated reporting and dashboards** improving decision turnaround time  
 - Contributed to **data-driven planning and operational efficiency improvements**  
 
-*(Tip: Add metrics where possible — e.g., % improvement, scale, volume)*
-
 ---
 
 ## 🧠 Approach
@@ -76,9 +74,6 @@ Forecasting • Scenario Analysis • Optimization • Data Modeling
 ## 🌐 Social & Portfolio
 - [LinkedIn](https://www.linkedin.com/in/felixogutu889/)  
 - [GitHub](https://github.com/FelixOgutuOdhiambo)  
-
-*(Optional: Add Kaggle / Portfolio / Blog if available)*
-
 ---
 
 ## 🤝 Let’s Connect
