@@ -31,7 +31,7 @@ I operate at the intersection of **data, operations, and strategy**, translating
 ## 🛠️ Skills & Tech Stack
 
 **Data & Analytics**  
-Python • Pandas • NumPy • Scikit-learn • SQL  
+Python • R • SQL • Pandas • NumPy • Scikit-learn • dplyr • ggplot2 • tidyr • forecast
 
 **BI & Visualization**  
 Power BI • Microsoft Fabric  
