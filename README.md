@@ -65,21 +65,9 @@ Forecasting • Scenario Analysis • Optimization • Data Modeling
 
 ---
 
-## 🎓 Education & Certifications
-- Bachelor of Applied Science in Statistics – Mount Kenya University  
-- Google Data Analytics Professional Certificate  
-
----
-
 ## 🌐 Social & Portfolio
 - [LinkedIn](https://www.linkedin.com/in/felixogutu889/)  
 - [GitHub](https://github.com/FelixOgutuOdhiambo)  
 ---
 
 ## 🤝 Let’s Connect
-I’m open to:
-- Data-driven strategy and analytics roles  
-- Aviation and network planning opportunities  
-- Collaborative projects in analytics and decision intelligence  
-
----
